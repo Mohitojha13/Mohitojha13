@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:7209B7&height=180&section=header" width="100%"/>
 
-<a href="https://github.com/Mohitojha13">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohit+Kumar+Ojha;Data+Analyst+%7C+Business+Analyst+%7C+MIS+Analyst;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
-</a>
+## Hi 👋, I'm Mohit Kumar Ojha
 
-<img src="https://komarev.com/ghpvc/?username=Mohitojha13&label=Profile%20Views&color=7209B7&style=for-the-badge" alt="Mohitojha13" />
+<a href="https://github.com/Mohitojha13">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Business+Analyst+%7C+MIS+Analyst;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -111,18 +111,24 @@
   <img src="https://raw.githubusercontent.com/Mohitojha13/Mohitojha13/output/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
+**📈 Contribution Breakdown:**
+- **Total Contributions (1 year):** 83
+- **Repository Stars:** ⭐ 18
+- **Forks:** 0
+- **Primary Language:** HTML (with CSS, JavaScript, and other configs in "Other" category)
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,100:7209B7&height=3&width=1000" width="100%"/>
 
 ### 📫 Connect with Me
 
 <table align="center">
   <tr>
-    <td><a href="https://www.linkedin.com/in/mohit-ojha-data-analyst"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" width="100%" /></a></td>
-    <td><a href="mailto:ojhamohit108@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" width="100%" /></a></td>
+    <td><a href="https://www.linkedin.com/in/mohit-ojha-data-analyst" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117" /></a></td>
+    <td><a href="mailto:ojhamohit108@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://mohitojha13.github.io/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=7209B7" width="100%" /></a></td>
-    <td><a href="https://www.hackerrank.com/profile/ojhamohit13"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" width="100%" /></a></td>
+    <td><a href="https://mohitojha13.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=7209B7&labelColor=0D1117" /></a></td>
+    <td><a href="https://www.hackerrank.com/profile/ojhamohit13" target="_blank"><img src="https://img.shields.io/badge/HACKERRANK-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=0D1117" /></a></td>
   </tr>
 </table>
 
@@ -130,6 +136,12 @@
 
 ### 📌 Pinned Projects
 
-Check out my pinned repositories directly on my [GitHub profile](https://github.com/Mohitojha13) — updated live via GitHub's native pin feature.
+<p align="center">
+  <a href="https://github.com/Mohitojha13?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐%20View%20All%20GitHub%20Repositories%20-%20F72585?style=for-the-badge&logo=github&logoColor=ffffff" width="400" />
+  </a>
+</p>
+
+> Check out my pinned repositories directly on my [GitHub profile](https://github.com/Mohitojha13) — updated live via GitHub's native pin feature.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7209B7,100:F72585&height=100&section=footer" width="100%"/>
