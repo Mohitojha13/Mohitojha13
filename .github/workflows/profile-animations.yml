@@ -3,17 +3,24 @@ name: Generate Profile Animations
 on:
   schedule:
     - cron: "0 0 * * *"   # daily at midnight UTC
-  workflow_dispatch:
+  workflow_dispatch:      # manual trigger option
   push:
     branches:
       - main
 
 jobs:
-  generate:
+  generate-animations:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Step 2: Generate Snake Animation
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
@@ -22,24 +29,33 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake Output to output branch
+      # Step 3: Push Snake Animation to output branch
+      - name: Push Snake Animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Step 4: Generate 3D Contribution Graph
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Mohitojha13
 
-      - name: Push 3D Graph Output to output branch
+      # Step 5: Push 3D Contribution Graph to output branch
+      - name: Push 3D Contribution Graph to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: profile-3d-contrib
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 6: Workflow Completion
+      - name: Workflow Completion
+        run: echo "✅ Profile animations generated and pushed successfully!"
