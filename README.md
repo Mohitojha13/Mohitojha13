@@ -1,22 +1,29 @@
-<h1 align="center">Hi 👋, I'm Mohit Kumar Ojha</h1>
-<h3 align="center">Data Analyst | Business Analyst | MIS Analyst | MIS Executive | Turning Raw Data into Actionable Insights</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohitojha13&label=Profile%20Views&color=22c55e&style=flat" alt="Mohitojha13" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:7209B7&height=180&section=header" width="100%"/>
+
+<a href="https://github.com/Mohitojha13">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohit+Kumar+Ojha;Data+Analyst+%7C+Business+Analyst+%7C+MIS+Analyst;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Mohitojha13&label=Profile%20Views&color=7209B7&style=for-the-badge" alt="Mohitojha13" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,100:7209B7&height=3&width=1000" width="100%"/>
 
 <table align="center">
   <tr>
-    <td><a href="https://www.linkedin.com/in/mohit-ojha-data-analyst" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%" /></a></td>
-    <td><a href="https://github.com/Mohitojha13" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="100%" /></a></td>
+    <td><a href="https://www.linkedin.com/in/mohit-ojha-data-analyst" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" width="100%" /></a></td>
+    <td><a href="https://github.com/Mohitojha13" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F72585" width="100%" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://mohitojha13.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" width="100%" /></a></td>
-    <td><a href="mailto:ojhamohit108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100%" /></a></td>
+    <td><a href="https://mohitojha13.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=7209B7" width="100%" /></a></td>
+    <td><a href="mailto:ojhamohit108@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" width="100%" /></a></td>
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,100:7209B7&height=3&width=1000" width="100%"/>
 
 ### 🚀 About Me
 
@@ -28,44 +35,44 @@
 - 📍 Based in **Gurugram, Haryana, India**
 - 🌐 Portfolio: [mohitojha13.github.io](https://mohitojha13.github.io/)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,100:7209B7&height=3&width=1000" width="100%"/>
 
 ### 🛠️ Tech Stack
 
 **Languages & Query**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/DAX-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
 </p>
 
 **BI & Visualization**
 <p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=E97627" />
+  <img src="https://img.shields.io/badge/Looker_Studio-0D1117?style=for-the-badge&logo=looker&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
+  <img src="https://img.shields.io/badge/Power_Query-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
+  <img src="https://img.shields.io/badge/Google_Sheets-0D1117?style=for-the-badge&logo=googlesheets&logoColor=34A853" />
 </p>
 
 **Data Analysis Libraries**
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=E70488" />
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
+  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=F72585" />
+  <img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
 </p>
 
 **Databases & Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F72585" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,100:7209B7&height=3&width=1000" width="100%"/>
 
 ### 📊 GitHub Stats
 
@@ -80,17 +87,49 @@
 
 > 💡 Note: agar upar wale stats cards temporarily broken dikhein, page reload karo — ye free public servers hain jo kabhi-kabhi slow start hote hain.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,100:7209B7&height=3&width=1000" width="100%"/>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohitojha13&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,100:7209B7&height=3&width=1000" width="100%"/>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohitojha13/Mohitojha13/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,100:7209B7&height=3&width=1000" width="100%"/>
+
+### 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohitojha13/Mohitojha13/output/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,100:7209B7&height=3&width=1000" width="100%"/>
 
 ### 📫 Connect with Me
 
 <table align="center">
   <tr>
-    <td><a href="https://www.linkedin.com/in/mohit-ojha-data-analyst"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" width="100%" /></a></td>
-    <td><a href="mailto:ojhamohit108@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" width="100%" /></a></td>
+    <td><a href="https://www.linkedin.com/in/mohit-ojha-data-analyst"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" width="100%" /></a></td>
+    <td><a href="mailto:ojhamohit108@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" width="100%" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://mohitojha13.github.io/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=googlechrome&logoColor=white" width="100%" /></a></td>
-    <td><a href="https://www.hackerrank.com/profile/ojhamohit13"><img src="https://img.shields.io/badge/HackerRank-green?style=flat&logo=hackerrank" width="100%" /></a></td>
+    <td><a href="https://mohitojha13.github.io/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=7209B7" width="100%" /></a></td>
+    <td><a href="https://www.hackerrank.com/profile/ojhamohit13"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" width="100%" /></a></td>
   </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,100:7209B7&height=3&width=1000" width="100%"/>
+
+### 📌 Pinned Projects
+
+Check out my pinned repositories directly on my [GitHub profile](https://github.com/Mohitojha13) — updated live via GitHub's native pin feature.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7209B7,100:F72585&height=100&section=footer" width="100%"/>
