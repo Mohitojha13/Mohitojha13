@@ -70,21 +70,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohitojha13&show_icons=true&theme=radical&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mohitojha13&show_icons=true&theme=radical" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitojha13&theme=radical" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitojha13&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Mohitojha13&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-> 💡 Note: agar upar wale stats cards temporarily broken dikhein, page reload karo — ye ek free public server hai jo kabhi-kabhi slow start hota hai.
-
----
-
-### 📌 Pinned Projects
-
-Check out my pinned repositories directly on my [GitHub profile](https://github.com/Mohitojha13) — updated live via GitHub's native pin feature.
+> 💡 Note: agar upar wale stats cards temporarily broken dikhein, page reload karo — ye free public servers hain jo kabhi-kabhi slow start hote hain.
 
 ---
 
