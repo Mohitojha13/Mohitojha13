@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar Ojha</h1>
-<h3 align="center">Data Analyst | Power BI • SQL • Python | Turning Raw Data into Actionable Insights</h3>
+<h3 align="center">Data Analyst | Business Analyst | MIS Analyst | MIS Executive | Turning Raw Data into Actionable Insights</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohitojha13&label=Profile%20Views&color=22c55e&style=flat" alt="Mohitojha13" />
@@ -11,11 +11,8 @@
     <td><a href="https://github.com/Mohitojha13" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="100%" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.hackerrank.com/profile/ojhamohit13" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" width="100%" /></a></td>
     <td><a href="https://mohitojha13.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" width="100%" /></a></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><a href="mailto:ojhamohit108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
+    <td><a href="mailto:ojhamohit108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100%" /></a></td>
   </tr>
 </table>
 
