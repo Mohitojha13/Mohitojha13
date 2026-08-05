@@ -5,23 +5,19 @@
   <img src="https://komarev.com/ghpvc/?username=Mohitojha13&label=Profile%20Views&color=22c55e&style=flat" alt="Mohitojha13" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohit-ojha-data-analyst" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Mohitojha13" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/ojhamohit13" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://mohitojha13.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:ojhamohit108@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td><a href="https://www.linkedin.com/in/mohit-ojha-data-analyst" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%" /></a></td>
+    <td><a href="https://github.com/Mohitojha13" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.hackerrank.com/profile/ojhamohit13" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" width="100%" /></a></td>
+    <td><a href="https://mohitojha13.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="mailto:ojhamohit108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -77,49 +73,33 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohitojha13&show_icons=true&theme=radical&count_private=true" alt="Mohit's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitojha13&theme=radical" alt="Mohit's Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohitojha13&show_icons=true&theme=radical&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitojha13&theme=radical" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitojha13&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitojha13&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </p>
+
+> 💡 Note: agar upar wale stats cards temporarily broken dikhein, page reload karo — ye ek free public server hai jo kabhi-kabhi slow start hota hai.
 
 ---
 
 ### 📌 Pinned Projects
 
-<p align="center">
-  <a href="https://github.com/Mohitojha13/Mobile-sales-Dashboard" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitojha13&repo=Mobile-sales-Dashboard&theme=radical" /></a>
-  <a href="https://github.com/Mohitojha13/Credit-card-financial-dashboard" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitojha13&repo=Credit-card-financial-dashboard&theme=radical" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Mohitojha13/Maven-Market-Report-Analyze" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitojha13&repo=Maven-Market-Report-Analyze&theme=radical" /></a>
-  <a href="https://github.com/Mohitojha13/Super-Store-Sales-dashboard" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitojha13&repo=Super-Store-Sales-dashboard&theme=radical" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Mohitojha13/Ola-Ride-Booking-Projects" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitojha13&repo=Ola-Ride-Booking-Projects&theme=radical" /></a>
-  <a href="https://github.com/Mohitojha13/Blinkit-sales-dashboard" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitojha13&repo=Blinkit-sales-dashboard&theme=radical" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Mohitojha13/Hr-Analyst-dashboard" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitojha13&repo=Hr-Analyst-dashboard&theme=radical" /></a>
-  <a href="https://github.com/Mohitojha13/Madhav-Ecommerce-Sale-Dashboard" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitojha13&repo=Madhav-Ecommerce-Sale-Dashboard&theme=radical" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Mohitojha13/Zomato-project-using-python" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitojha13&repo=Zomato-project-using-python&theme=radical" /></a>
-</p>
-
-<!-- To add MORE repos beyond the ones above, copy this block and replace REPO-NAME with the exact repo name from your GitHub:
-<a href="https://github.com/Mohitojha13/REPO-NAME" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitojha13&repo=REPO-NAME&theme=radical" /></a>
--->
+Check out my pinned repositories directly on my [GitHub profile](https://github.com/Mohitojha13) — updated live via GitHub's native pin feature.
 
 ---
 
 ### 📫 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohit-ojha-data-analyst"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:ojhamohit108@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
-  <a href="https://mohitojha13.github.io/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/ojhamohit13"><img src="https://img.shields.io/badge/HackerRank-green?style=flat&logo=hackerrank" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td><a href="https://www.linkedin.com/in/mohit-ojha-data-analyst"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" width="100%" /></a></td>
+    <td><a href="mailto:ojhamohit108@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://mohitojha13.github.io/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=googlechrome&logoColor=white" width="100%" /></a></td>
+    <td><a href="https://www.hackerrank.com/profile/ojhamohit13"><img src="https://img.shields.io/badge/HackerRank-green?style=flat&logo=hackerrank" width="100%" /></a></td>
+  </tr>
+</table>
