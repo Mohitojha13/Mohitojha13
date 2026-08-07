@@ -1,5 +1,4 @@
 name: Generate Profile Animations
-
 on:
   schedule:
     - cron: "0 0 * * *"   # daily at midnight UTC
@@ -7,7 +6,6 @@ on:
   push:
     branches:
       - main
-
 jobs:
   generate-animations:
     permissions:
@@ -39,23 +37,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 4: Generate 3D Contribution Graph
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Mohitojha13
-
-      # Step 5: Push 3D Contribution Graph to output branch
-      - name: Push 3D Contribution Graph to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: profile-3d-contrib
-          keep_history: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Step 6: Workflow Completion
+      # Step 4: Workflow Completion
       - name: Workflow Completion
-        run: echo "✅ Profile animations generated and pushed successfully!"
+        run: echo "✅ Snake animation generated and pushed successfully!"
