@@ -35,7 +35,7 @@ Currently working at **Smile Foundation**, where I build interactive dashboards,
 I enjoy solving business problems using data and continuously explore new technologies in **Business Intelligence, Analytics and Automation**.
 
 📍 **Location:** Gurugram, India<br/>
-💼 **LinkedIn:** [linkedin.com/in/mohit-ojha-data-analyst](in/mohit-ojha-data-analyst)<br/>
+🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mohit-ojha-data-analyst)<br/>
 🌐 **Portfolio:** [mohitojha13.github.io](https://mohitojha13.github.io)<br/>
 📧 **Email:** [ojhamohit108@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ojhamohit108@gmail.com)
 
