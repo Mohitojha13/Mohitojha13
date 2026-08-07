@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Hi%20👋,%20I'm%20Mohit%20Kumar%20Ojha&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20|%20Business%20Analyst%20|%20MIS%20Analyst&descAlignY=55&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=764BA2&center=true&vCenter=true&width=900&lines=Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Transforming+Raw+Data+into+Actionable+Insights;20%2B+Projects+%7C+50K%2B+Excel+Rows+Handled" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=764BA2&center=true&vCenter=true&width=900&lines=Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Transforming+Raw+Data+into+Actionable+Insights" />
 
 <br/>
 
