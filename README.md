@@ -15,7 +15,7 @@
 <a href="https://mohitojha13.github.io">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=f093fb"/>
 </a>
-<a href="mailto:ojhamohit108@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ojhamohit108@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 <!-- <a href="https://www.hackerrank.com/profile/ojhamohit13">
@@ -33,6 +33,11 @@ I'm a **Data Analyst** passionate about transforming raw data into meaningful bu
 Currently working at **Smile Foundation**, where I build interactive dashboards, automate reporting workflows and deliver KPI-driven insights for business decision making.
 
 I enjoy solving business problems using data and continuously explore new technologies in **Business Intelligence, Analytics and Automation**.
+
+📍 **Location:** Gurugram, India<br/>
+💼 **LinkedIn:** [linkedin.com/in/mohit-ojha-data-analyst](https://www.linkedin.com/in/mohit-ojha-data-analyst)<br/>
+🌐 **Portfolio:** [mohitojha13.github.io](https://mohitojha13.github.io)<br/>
+📧 **Email:** [ojhamohit108@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ojhamohit108@gmail.com)
 
 <br/>
 
