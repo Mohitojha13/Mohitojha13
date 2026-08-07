@@ -103,48 +103,18 @@ Previously worked as **MIS Executive** and completed a **Data Analyst Internship
 
 ## 🏆 Achievements
 
-<table width="100%" cellpadding="15" cellspacing="0" border="0">
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="46"/><br/><br/>
-<b>20+</b><br/>
-<sub><b>Projects Completed</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/briefcase.png" width="36"/><br/><br/>
-<b>2+</b><br/>
-<sub><b>Years Experience</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/ms-excel.png" width="46"/><br/><br/>
-<b>50K+</b><br/>
-<sub><b>Excel Rows Handled</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/prize.png" width="36"/><br/><br/>
-<b>10+</b><br/>
-<sub><b>Certifications</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/star.png" width="36"/><br/><br/>
-<b>5★</b><br/>
-<sub><b>HackerRank SQL</b></sub>
-</td>
-</tr>
-</table>
-
 | Recognition | Details |
 |---|---|
+| 📈 **20+ Projects Completed** | Delivered dashboards, automation & reporting projects end-to-end |
+| 💼 **2+ Years Experience** | Hands-on experience in data analysis & reporting roles |
+| 📑 **50K+ Excel Rows Handled** | Cleaned, processed & analyzed large-scale datasets in Excel |
+| 🏆 **10+ Certifications** | Certified in Power BI, SQL, Python & data analytics tools |
+| ⭐ **5★ HackerRank SQL** | Achieved top rating for SQL problem-solving on HackerRank |
 | 📊 **40% Report Time Reduced** | Designed & deployed interactive Power BI dashboards at Smile Foundation |
 | ⚡ **30% Faster Data Delivery** | Automated ETL pipelines using Python & SQL at Smile Foundation |
 | 🗂️ **25% Manual Reporting Time Cut** | Optimized MIS dashboards using Excel & Power BI at Greet India Foundation |
 | 🎯 **25% Improved Reporting Accuracy** | Built new MIS templates & data verification techniques |
 | 🎓 **300+ Students Trained** | Practical training in Excel, MS Office, Power BI & Google Sheets |
-| 💼 **2+ Years Experience** | Hands-on experience in data analysis & reporting roles |
-| 📈 **20+ Projects Completed** | Delivered dashboards, automation & reporting projects end-to-end |
-| 📑 **50K+ Excel Rows Handled** | Cleaned, processed & analyzed large-scale datasets in Excel |
-| 🏆 **10+ Certifications** | Certified in Power BI, SQL, Python & data analytics tools |
-| ⭐ **5★ HackerRank SQL** | Achieved top rating for SQL problem-solving on HackerRank |
 
 <br/>
 
