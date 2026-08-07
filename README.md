@@ -7,22 +7,20 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/mohit-ojha-data-analyst">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=667eea"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=667eea"/>
 </a>
-<a href="https://github.com/Mohitojha13">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=764ba2"/>
-</a>
+<!-- <a href="https://github.com/Mohitojha13">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=764ba2"/>
+</a> -->
 <a href="https://mohitojha13.github.io">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=f093fb"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=f093fb"/>
 </a>
 <a href="mailto:ojhamohit108@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
-<a href="https://www.hackerrank.com/profile/ojhamohit13">
-<img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Mohitojha13&style=for-the-badge&color=764ba2&label=PROFILE+VIEWS"/>
+<!-- <a href="https://www.hackerrank.com/profile/ojhamohit13">
+<img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
+</a> -->
 
 </div>
 
@@ -40,61 +38,49 @@ I enjoy solving business problems using data and continuously explore new techno
 
 ## 🎯 Core Expertise
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 - 📊 Dashboard Development & Business Intelligence
 - 📈 KPI Reporting & Data Visualization
 - ⚡ ETL Automation & Data Transformation
 - 🗄️ SQL Query Writing & Database Analysis
-
-</td>
-<td width="50%" valign="top">
-
 - 🐍 Python for Data Analysis & Automation
-- 📑 Advanced Excel, Power Query & DAX
+- 📑 Advanced Excel, Power Query, Dax & SQL
 - 🤝 Data-driven Decision Making
-- ☁️ Exploring Machine Learning & AI for Data
-
-</td>
-</tr>
-</table>
+- ☁️ Exploring Machine Learning & AI for Data Science
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 **Languages & Query**
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/DAX-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/>
 
 **BI & Visualization**
 
-<img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=E97627"/>
-<img src="https://img.shields.io/badge/Looker_Studio-0D1117?style=for-the-badge&logo=looker&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
-<img src="https://img.shields.io/badge/Power_Query-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
-<img src="https://img.shields.io/badge/Google_Sheets-0D1117?style=for-the-badge&logo=googlesheets&logoColor=34A853"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Power_BI-000000?style=for-the-badge&logo=power-bi&logoColor=F2C811"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627"/>
+<img src="https://img.shields.io/badge/Looker_Studio-000000?style=for-the-badge&logo=looker&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/>
+<img src="https://img.shields.io/badge/Power_Query-000000?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/>
+<img src="https://img.shields.io/badge/Google_Sheets-000000?style=for-the-badge&logo=googlesheets&logoColor=34A853"/>
 
 **Data Analysis**
 
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=E70488"/>
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
-<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=f093fb"/>
-<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=E70488"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=f093fb"/>
+<img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
 
 **Database & Tools**
 
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=764ba2"/>
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=764ba2"/>
+<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
 
 </div>
 
@@ -112,66 +98,60 @@ Previously worked as **MIS Executive** and completed a **Data Analyst Internship
 
 ## 🏆 Achievements
 
-<div align="center">
-
-<table>
+<table width="100%" cellpadding="15" cellspacing="0" border="0">
 <tr>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="36"/><br/>
-<b><span style="font-size:22px;color:#667eea">20+</span></b><br/>
+<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="46"/><br/><br/>
+<b>20+</b><br/>
 <sub><b>Projects Completed</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/briefcase.png" width="36"/><br/>
-<b><span style="font-size:22px;color:#667eea">2+</span></b><br/>
+<img src="https://img.icons8.com/fluency/48/briefcase.png" width="36"/><br/><br/>
+<b>2+</b><br/>
 <sub><b>Years Experience</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/ms-excel.png" width="36"/><br/>
-<b><span style="font-size:22px;color:#667eea">50K+</span></b><br/>
+<img src="https://img.icons8.com/fluency/48/ms-excel.png" width="46"/><br/><br/>
+<b>50K+</b><br/>
 <sub><b>Excel Rows Handled</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/prize.png" width="36"/><br/>
-<b><span style="font-size:22px;color:#667eea">10+</span></b><br/>
+<img src="https://img.icons8.com/fluency/48/prize.png" width="36"/><br/><br/>
+<b>10+</b><br/>
 <sub><b>Certifications</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/star.png" width="36"/><br/>
-<b><span style="font-size:22px;color:#667eea">5★</span></b><br/>
+<img src="https://img.icons8.com/fluency/48/star.png" width="36"/><br/><br/>
+<b>5★</b><br/>
 <sub><b>HackerRank SQL</b></sub>
 </td>
 </tr>
 </table>
 
-</div>
-
 | Recognition | Details |
 |---|---|
-| 🥇 **Top Data Analyst** | Recognized for excellence in business intelligence at organizational level |
-| 🎓 **300+ Students Trained** | Comprehensive training program in Power BI, Excel, and SQL analytics |
-| ⚡ **50+ Processes Automated** | Enterprise automation initiatives reducing manual overhead by 80% |
-| 📊 **15+ Dashboards Deployed** | Production Power BI solutions serving organizational stakeholders |
-| 🔄 **99.9% Pipeline Reliability** | ETL systems maintaining highest data quality standards |
-| 🚀 **35% Decision Acceleration** | Analytics driving faster executive decision-making |
+| 📊 **40% Report Time Reduced** | Designed & deployed interactive Power BI dashboards at Smile Foundation |
+| ⚡ **30% Faster Data Delivery** | Automated ETL pipelines using Python & SQL at Smile Foundation |
+| 🗂️ **25% Manual Reporting Time Cut** | Optimized MIS dashboards using Excel & Power BI at Greet India Foundation |
+| 🎯 **25% Improved Reporting Accuracy** | Built new MIS templates & data verification techniques |
+| 🎓 **300+ Students Trained** | Practical training in Excel, MS Office, Power BI & Google Sheets |
+| 💼 **2+ Years Experience** | Hands-on experience in data analysis & reporting roles |
+| 📈 **20+ Projects Completed** | Delivered dashboards, automation & reporting projects end-to-end |
+| 📑 **50K+ Excel Rows Handled** | Cleaned, processed & analyzed large-scale datasets in Excel |
+| 🏆 **10+ Certifications** | Certified in Power BI, SQL, Python & data analytics tools |
+| ⭐ **5★ HackerRank SQL** | Achieved top rating for SQL problem-solving on HackerRank |
 
 <br/>
 
 ## 📜 Certifications
 
-<div align="center">
+<div align="left">
 
-<img src="https://img.shields.io/badge/Advanced_Excel-Skill_Course-667eea?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power_BI-Skill_Course-764ba2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power_BI-Udemy-f093fb?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL-Skill_Course-667eea?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL_Basic-HackerRank-764ba2?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL_Intermediate-HackerRank-f093fb?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL_Advanced-HackerRank-667eea?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Analyst-Esclancer-764ba2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Analyst-Learn_Tube-f093fb?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Analyst-Tutedude-667eea?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Science-Code_with_Harry-764ba2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Advanced_Excel-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-764ba2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-f093fb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analyst-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Science-764ba2?style=for-the-badge"/>
 
 </div>
 
@@ -187,28 +167,10 @@ Previously worked as **MIS Executive** and completed a **Data Analyst Internship
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Mohitojha13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=f093fb&icon_color=764ba2&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitojha13&theme=radical&hide_border=true&background=0D1117&ring=764ba2&fire=f093fb&currStreakLabel=f093fb" height="170"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Mohitojha13&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=f093fb&text_color=c9d1d9" height="170"/>
-</div>
-
-<br/>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=Mohitojha13&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" width="100%"/>
-</div>
-
-<br/>
-
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohitojha13&theme=react-dark&bg_color=0D1117&color=f093fb&line=764ba2&point=667eea&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohitojha13&theme=react-dark&bg_color=000000&color=f093fb&line=764ba2&point=667eea&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br/>
