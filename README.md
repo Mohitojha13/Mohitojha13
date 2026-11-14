@@ -43,7 +43,7 @@ I enjoy solving business problems with data and keep exploring **Business Intell
 
 ## 🎯 Core Expertise
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="50%">📊<br/><b>Dashboards & BI</b></td>
 <td align="center" width="50%">📈<br/><b>KPI Reporting & Visualization</b></td>
