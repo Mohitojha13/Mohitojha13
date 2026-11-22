@@ -2,7 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Hi%20👋,%20I'm%20Mohit%20Kumar%20Ojha&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20|%20Business%20Analyst%20|%20MIS%20Analyst&descAlignY=55&descSize=18&animation=fadeIn"/>
 
+<picture>
+<source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=764BA2&center=true&vCenter=true&multiline=true&width=340&height=100&lines=Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Transforming+Raw+Data;into+Actionable+Insights">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=764BA2&center=true&vCenter=true&width=900&lines=Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Transforming+Raw+Data+into+Actionable+Insights" />
+</picture>
 
 </div>
 
@@ -25,14 +28,14 @@ I enjoy solving business problems with data and keep exploring **Business Intell
 <table>
 <tr>
 <td align="center" width="50%">📍<br/><b>Location</b><br/>Gurugram, India</td>
-<td align="center" width="50%">🌐<br/><b>Portfolio</b><br/><a href="https://mohitojha13.github.io">mohitojha13.github.io</a></td>
+<td align="center" width="50%">🌐<br/><b>Portfolio</b><br/><a href="https://mohitojha13.github.io">mohitojha13<wbr>.github.io</a></td>
 </tr>
 <tr>
 <td align="center">🔗<br/><b>LinkedIn</b><br/><a href="https://www.linkedin.com/in/mohit-ojha-data-analyst">mohit-ojha-data-analyst</a></td>
-<td align="center">📧<br/><b>Email</b><br/><a href="https://mail.google.com/mail/?view=cm&fs=1&to=ojhamohit108@gmail.com">ojhamohit108@gmail.com</a></td>
+<td align="center">📧<br/><b>Email</b><br/><a href="https://mail.google.com/mail/?view=cm&fs=1&to=ojhamohit108@gmail.com">ojhamohit108<wbr>@gmail.com</a></td>
 </tr>
 <tr>
-<td colspan="2"><img src="https://raw.githubusercontent.com/Mohitojha13/Mohitojha13/main/spacer.svg" width="1200" height="1" alt=""/></td>
+<td colspan="2"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Mohitojha13/Mohitojha13/main/spacer-mobile.svg"><img src="https://raw.githubusercontent.com/Mohitojha13/Mohitojha13/main/spacer.svg" alt=""/></picture></td>
 </tr>
 </table>
 
@@ -58,7 +61,7 @@ I enjoy solving business problems with data and keep exploring **Business Intell
 <td align="center">☁️<br/><b>Exploring ML & AI</b></td>
 </tr>
 <tr>
-<td colspan="2"><img src="https://raw.githubusercontent.com/Mohitojha13/Mohitojha13/main/spacer.svg" width="1200" height="1" alt=""/></td>
+<td colspan="2"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Mohitojha13/Mohitojha13/main/spacer-mobile.svg"><img src="https://raw.githubusercontent.com/Mohitojha13/Mohitojha13/main/spacer.svg" alt=""/></picture></td>
 </tr>
 </table>
 
