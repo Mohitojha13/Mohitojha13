@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-<source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=Hi%20👋,%20I'm%20Mohit%20Kumar%20Ojha&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Data%20Analyst%20|%20Business%20Analyst%20|%20MIS%20Analyst&descAlignY=60&descSize=34&animation=fadeIn">
+<source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea%2C50:764ba2%2C100:f093fb&height=300&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Mohit%20Kumar%20Ojha&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20MIS%20Analyst&descAlignY=60&descSize=34&animation=fadeIn">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Hi%20👋,%20I'm%20Mohit%20Kumar%20Ojha&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20|%20Business%20Analyst%20|%20MIS%20Analyst&descAlignY=55&descSize=18&animation=fadeIn"/>
 </picture>
 
@@ -22,11 +22,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Analyst** passionate about transforming raw data into meaningful business insights through **Power BI, SQL, Python, Advanced Excel, DAX and ETL Automation**.
+I’m a **Data Analyst & MIS Executive** with **2+ years of experience** turning raw business data into clear, actionable insights.
 
-Currently at **Smile Foundation**, I build interactive dashboards, automate reporting workflows and deliver KPI-driven insights for business decision making.
+Currently at **Smile Foundation**, I build interactive **Power BI dashboards** that reduced report generation time by **40%** and automate **SQL & Python ETL pipelines** that cut data delivery time by **30%**, delivering KPI reports that drive business decisions.
 
-I enjoy solving business problems with data and keep exploring **Business Intelligence, Analytics and Automation**.
+Previously at **Greet India Foundation**, I optimized MIS dashboards (**25% less manual reporting time**) and trained **300+ students** in Excel, Power BI and Google Sheets.
+
+My toolkit: **Power BI, DAX, SQL, Python, Advanced Excel, Power Query, Tableau and Looker Studio**. Currently exploring **ML & AI**.
 
 <table>
 <tr>
