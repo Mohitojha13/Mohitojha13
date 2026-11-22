@@ -4,18 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=764BA2&center=true&vCenter=true&width=900&lines=Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Transforming+Raw+Data+into+Actionable+Insights" />
 
-<br/>
-
-<a href="https://www.linkedin.com/in/mohit-ojha-data-analyst">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=667eea"/>
-</a>
-<a href="https://mohitojha13.github.io">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=f093fb"/>
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ojhamohit108@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
 </div>
 
 <br/>
@@ -34,10 +22,19 @@ Currently at **Smile Foundation**, I build interactive dashboards, automate repo
 
 I enjoy solving business problems with data and keep exploring **Business Intelligence, Analytics and Automation**.
 
-📍 **Location:** Gurugram, India<br/>
-🌐 **Portfolio:** [mohitojha13.github.io](https://mohitojha13.github.io)<br/>
-🔗 **LinkedIn:** [mohit-ojha-data-analyst](https://www.linkedin.com/in/mohit-ojha-data-analyst)<br/>
-📧 **Email:** [ojhamohit108@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ojhamohit108@gmail.com)
+<table>
+<tr>
+<td align="center" width="50%">📍<br/><b>Location</b><br/>Gurugram, India</td>
+<td align="center" width="50%">🌐<br/><b>Portfolio</b><br/><a href="https://mohitojha13.github.io">mohitojha13.github.io</a></td>
+</tr>
+<tr>
+<td align="center">🔗<br/><b>LinkedIn</b><br/><a href="https://www.linkedin.com/in/mohit-ojha-data-analyst">mohit-ojha-data-analyst</a></td>
+<td align="center">📧<br/><b>Email</b><br/><a href="https://mail.google.com/mail/?view=cm&fs=1&to=ojhamohit108@gmail.com">ojhamohit108@gmail.com</a></td>
+</tr>
+<tr>
+<td colspan="2"><img src="https://raw.githubusercontent.com/Mohitojha13/Mohitojha13/main/spacer.svg" width="1200" height="1" alt=""/></td>
+</tr>
+</table>
 
 <br/>
 
@@ -59,6 +56,9 @@ I enjoy solving business problems with data and keep exploring **Business Intell
 <tr>
 <td align="center">🤝<br/><b>Data-driven Decision Making</b></td>
 <td align="center">☁️<br/><b>Exploring ML & AI</b></td>
+</tr>
+<tr>
+<td colspan="2"><img src="https://raw.githubusercontent.com/Mohitojha13/Mohitojha13/main/spacer.svg" width="1200" height="1" alt=""/></td>
 </tr>
 </table>
 
